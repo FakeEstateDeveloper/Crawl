@@ -1,0 +1,21 @@
+TODO:
+Player:
+1. Add Die function to delete object with pointers
+2. ...
+
+Enemy:
+1. Add Die function to delete object with pointers
+2. ...
+
+EXTRA:
+DOCUMENTATION OF IOSTREAM:
+https://cplusplus.com/reference/iostream/
+
+DOCUMENTATION OF VECTOR:
+https://en.cppreference.com/w/cpp/container/vector.html
+
+DOCUMENTATION OF RANDOM:
+https://cplusplus.com/reference/random/
+
+DOCUMENTATION OF SDL3:
+https://wiki.libsdl.org/SDL3/APIByCategory
